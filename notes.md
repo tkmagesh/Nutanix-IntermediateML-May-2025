@@ -41,6 +41,8 @@ python -m venv  ML_Trng_Env
 source ML_Trng_Env/bin/activate
 pip install numpy pandas scikit-learn matplotlib seaborn ipykernel notebook
 python -m ipykernel install --user --name=ML_Trng_WS
+
+# Run the following command for browser based notebook interface, else using the vscode extension (below)
 jupyter notebook
 ```
 
