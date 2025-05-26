@@ -26,3 +26,23 @@ Unsupervised (Unknown Target)
 1. Linear Equation Based (Supersived)
 2. Decision Tree Based (Supervised)
 3. Distance Based (Unsupervised)
+
+## Software Requirements
+### Cloud
+- Google Colab (https://colab.research.google.com)
+
+### Local
+- Python3
+- Pip
+
+#### Local Setup
+```shell
+python -m venv  ML_Trng_Env
+source ML_Trng_Env/bin/activate
+pip install numpy pandas scikit-learn matplotlib seaborn ipykernel notebook
+python -m ipykernel install --user --name=ML_Trng_WS
+jupyter notebook
+```
+
+#### Visual Studio Code Extension for Jupyter Notebooks
+- https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
