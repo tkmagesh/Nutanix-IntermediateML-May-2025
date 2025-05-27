@@ -48,3 +48,9 @@ jupyter notebook
 
 #### Visual Studio Code Extension for Jupyter Notebooks
 - https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
+
+### Reference
+- "Before Machine Learning" Series
+    - Linear Algebra
+    - Calculus
+    - Statistics
